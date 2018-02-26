@@ -7,7 +7,7 @@ use PDO;
 /**
  * Example user model
  *
- * PHP version 7.0
+ * PHP version 5.6
  */
 class User extends \Core\Model
 {

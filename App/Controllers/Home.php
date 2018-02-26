@@ -7,7 +7,7 @@ use \Core\View;
 /**
  * Home controller
  *
- * PHP version 7.0
+ * PHP version 5.6
  */
 class Home extends \Core\Controller
 {
